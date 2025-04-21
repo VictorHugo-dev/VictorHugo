@@ -17,16 +17,12 @@ Gosto de fazer umas programações bem legais
 
 ---
 
-## 📈 Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugo-dev&layout=compact&theme=github_dark)
+## Meus Projetos
+[![Veja o projeto](https://img.shields.io/badge/🚀_Veja_o_projeto-AEROLOOPS.com.br-111827?style=for-the-badge)](https://aeroloops.com.br)
 
 ---
+
 
 ## 📫 Como me encontrar:
 - 💌 Email: victorhuguinhobr@outlook.com
 
-
-## Meus Projetos
-[Aeroloops](https://aeroloops.com.br/)
-
----
