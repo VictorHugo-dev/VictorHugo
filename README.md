@@ -4,6 +4,10 @@ Gosto de fazer umas programações bem legais
 
 ---
 
+![Timezone](https://img.shields.io/badge/Fuso_Horário-America/Sao__Paulo-0D1117?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
 ## 🧰 Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
