@@ -4,7 +4,9 @@ Gosto de fazer umas programações bem legais
 
 ---
 
-![Timezone](https://img.shields.io/badge/Fuso_Horário-America/Sao__Paulo-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![Timezone](https://img.shields.io/badge/Fuso_Horário-America/Sao__Paulo-0D1117?style=for-the-badge&logo=github&logoColor=white)  ![Pronomes: ele/dele](https://img.shields.io/badge/👤_Pronomes-ele/dele-0D1117?style=for-the-badge&logoColor=white)  ![Aviação bem legal](https://img.shields.io/badge/✈️_Entusiasta_da_Aviação-005C99?style=for-the-badge&logo=flightaware&logoColor=white)
+
+
 
 ---
 
