@@ -20,7 +20,7 @@ I like to code.
 ---
 
 ## Projects
-[![Visit Aeroloops](https://img.shields.io/badge/🌐_Visit-Aeroloops.com.br-0A91AB?style=for-the-badge&logo=airplane&logoColor=white)](https://aeroloops.com.br)
+[![Visit Aeroloops](https://img.shields.io/badge/🌐_Visit-Aeroloops.com.br-0A91AB?style=for-the-badge&logo=airplane&logoColor=white)](https://aeroloops.com.br) - 🇧🇷 Portuguese
 
 
 ---
