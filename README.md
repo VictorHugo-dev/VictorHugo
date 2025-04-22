@@ -4,7 +4,7 @@ I like to code.
 
 ---
 
-![Timezone](https://img.shields.io/badge/Fuso_Horário-America/Sao__Paulo-0D1117?style=for-the-badge&logo=github&logoColor=white)  ![Pronouns: he/him](https://img.shields.io/badge/👤_Pronomes-ele/dele-0D1117?style=for-the-badge&logoColor=white)  ![Aviation](https://img.shields.io/badge/✈️_Entusiasta_da_Aviação-005C99?style=for-the-badge&logo=flightaware&logoColor=white)
+![Timezone](https://img.shields.io/badge/Timezone-America/Sao__Paulo-0D1117?style=for-the-badge&logo=github&logoColor=white)  ![Pronouns: he/him](https://img.shields.io/badge/👤_Pronouns-he/him-0D1117?style=for-the-badge&logoColor=white)  ![Aviation](https://img.shields.io/badge/✈️_Entusiasta_da_Aviação-005C99?style=for-the-badge&logo=flightaware&logoColor=white)
 
 
 
