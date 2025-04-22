@@ -4,7 +4,8 @@ I like to code.
 
 ---
 
-![Timezone](https://img.shields.io/badge/Timezone-America/Sao__Paulo-0D1117?style=for-the-badge&logo=github&logoColor=white)  ![Pronouns: he/him](https://img.shields.io/badge/👤_Pronouns-he/him-0D1117?style=for-the-badge&logoColor=white)  ![Aviation](https://img.shields.io/badge/✈️_Aviation-005C99?style=for-the-badge&logo=flightaware&logoColor=white)
+![From: BH, MG](https://img.shields.io/badge/🧉_From-Belo_Horizonte,_MG_🇧🇷-ffc107?style=for-the-badge)
+  ![Timezone](https://img.shields.io/badge/Timezone-America/Sao__Paulo-0D1117?style=for-the-badge&logo=github&logoColor=white)  ![Pronouns: he/him](https://img.shields.io/badge/👤_Pronouns-he/him-0D1117?style=for-the-badge&logoColor=white)  ![Aviation](https://img.shields.io/badge/✈️_Aviation-005C99?style=for-the-badge&logo=flightaware&logoColor=white)
 
 
 
@@ -20,7 +21,7 @@ I like to code.
 ---
 
 ## Projects
-[![Visit Aeroloops](https://img.shields.io/badge/🌐_Visit-Aeroloops.com.br-0A91AB?style=for-the-badge&logo=airplane&logoColor=white)](https://aeroloops.com.br) - 🇧🇷 Portuguese
+[![Visit Aeroloops](https://img.shields.io/badge/🌐_Visit_|_🇧🇷_Portuguese-Aeroloops.com.br-0A91AB?style=for-the-badge&logo=airplane&logoColor=white)](https://aeroloops.com.br) 
 
 
 ---
