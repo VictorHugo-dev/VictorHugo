@@ -20,7 +20,7 @@ I like to code.
 ---
 
 ## Projects
-[![Aeroloops](https://img.shields.io/badge/🚀_Veja_o_projeto-AEROLOOPS.com.br-111827?style=for-the-badge)](https://aeroloops.com.br)
+[![Aeroloops](https://img.shields.io/badge/🚀_Look-👉-AEROLOOPS.com.br-111827?style=for-the-badge)](https://aeroloops.com.br)
 
 ---
 
